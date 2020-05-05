@@ -1,0 +1,11 @@
+.getag-details-container {
+	display: flex;
+	flex-wrap: wrap;
+
+	.detail-card {
+		width: 200px;
+		margin-bottom: 1rem!important;
+		text-align: left;
+		padding: 10px;
+	}
+}
